@@ -22,7 +22,7 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
   <a href= "https://github.com/ladaniprem/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <!-- <a href= "https://instagram.com/lyfzcool89/">
+  <<a href= "https://instagram.com/lyfzcool89/">
     <img src="https://img.icons8.com/wired/32/000000/instagram-new.png"/>
   </a> 
   <a href= "https://supersaiyane.in/">
@@ -41,7 +41,7 @@ I ❤️ writing idiomatic, maintainable code. I architect high performing, faul
 
 # Languages and Tools  
 <p align="left">
-<!-- <img src="Resources/svgicons/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<<img src="Resources/svgicons/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="Resources/svgicons//w3_html5-icon.svg" alt="Html5" width="45" height="45" />
   <img src="Resources/svgicons/microsoft_powerbi-icon.svg" alt="Power-Bi" width="45" height="45" />
   <img src="Resources/svgicons/dotnet-icon.svg" alt=".NET" width="45" height="45" />
