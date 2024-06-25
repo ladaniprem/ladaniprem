@@ -1,83 +1,31 @@
+<h1 align="center">Hi 👋, I'm ladani prem</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/ladaniprem?label=Follow&style=social)](https://github.com/ladaniprem/?tab=follow)  ![Visitors](https://vbr.wocr.tk/badge?page_id=ladaniprem)
+<img align="right"alt="coding"width="400"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ladaniprem&label=Profile%20views&color=0e75b6&style=flat" alt="ladaniprem" /> </p>
 
-# Hi there! I'm ladaniprem👋 
+- 🔭 I’m currently Studying Information Technology [Indus University -Ahemdabad](https://lp.collegedunia.com/INDUS2024/?source=text13&utm_source=online)
 
-I ❤️ writing idiomatic, maintainable code. I architect high performing, fault-tolerant apps on AWS cloud. ☁️
+- 👯 I’m Online Internship with [prodigy infotech](https://prodigyinfotech.dev/)
 
-- 💻 Senior Staff SRE at Vertisystem.
-- 🖥️ Love designing Large scale distributed systems & developing Products
-- 🏆 Contributing to open source projects.
-- 📧 Love to discuss Tech.  
-- 💬 would love to collaborate on anything.
-- 🌟 Love Cooking, Discussing Technology and Vaccations. 
+- 👨‍💻 All of my projects are available at [https://github.com/ladaniprem?tab=repositories](https://github.com/ladaniprem?tab=repositories)
 
-<!--# Download Resume
-<a href="https://github.com/supersaiyane/Resume/raw/main/Gurpreet%20Singh.pdf">Download</a> -->
+- 📫 How to reach me **premladani33453@gmail.com**
 
+- ⚡ Fun fact **I Just Work-hard without stress**
 
-# I'm there on
-<p align="center">
-  <a href= "https://github.com/ladaniprem/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
-  </a>
-  <<a href= "https://instagram.com/lyfzcool89/">
-    <img src="https://img.icons8.com/wired/32/000000/instagram-new.png"/>
-  </a> 
-  <a href= "https://supersaiyane.in/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a> -->
-  <a href= "https://medium.com/@gurpreet.singh_89">
-    <img src="https://img.icons8.com/ios/32/medium--v1.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/gurpreetsinghpal/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-  </a>
-  <a href= "mailto:gurpreet.singh_89@outlook.com">
-    <img src="https://img.icons8.com/wired/32/000000/apple-mail.png"/>
-  </a>	
-</p>
-
-# Languages and Tools  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<<img src="Resources/svgicons/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="Resources/svgicons//w3_html5-icon.svg" alt="Html5" width="45" height="45" />
-  <img src="Resources/svgicons/microsoft_powerbi-icon.svg" alt="Power-Bi" width="45" height="45" />
-  <img src="Resources/svgicons/dotnet-icon.svg" alt=".NET" width="45" height="45" />
-  <img src="Resources/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
-  <img src="Resources/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
-  <img src="Resources/svgicons/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
-  <img src="Resources/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
-  <img src="Resources/svgicons/elasticco_logstash-icon.svg" alt="logstash" width="45" height="45" />
-  <img src="Resources/svgicons/npmjs-ar21.svg" alt="NPM" width="45" height="45" />
-<img src="Resources/svgicons/phpmyadmin-icon.svg" alt="PHPmyAdmin" width="45" height="45" />
- -->
-  <img src="Resources/svgicons/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="Resources/svgicons/python-icon.svg" alt="python" width="45" height="45" />
-<img src="Resources/svgicons/microsoft_azure-icon.svg" alt="microsoft_azure" width="45" height="45" />
-<img src="Resources/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
-<img src="Resources/svgicons/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
-<img src="Resources/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
-<img src="Resources/svgicons/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
-<img src="Resources/svgicons/github-icon.svg" alt="Github" width="45" height="45" />
-<img src="Resources/svgicons/apache_kafka-icon.svg" alt="Kafka" width="45" height="45" />
-<img src="Resources/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-<img src="Resources/svgicons/influxdata-icon.svg" alt="InfluxData" width="45" height="45" />
-<img src="Resources/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" />
-<img src="Resources/svgicons/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
-<img src="Resources/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" />
-<img src="Resources/svgicons/jenkins-icon.svg" alt="Jenkins" width="45" height="45" />
-<img src="Resources/svgicons/jaegertracingio-icon.svg" alt="Jaeger" width="45" height="45" />
-<img src="Resources/svgicons/mysql-icon.svg" alt="mysql" width="45" height="45" />
-<img src="Resources/svgicons/elastic-icon.svg" alt="Elastic" width="45" height="45" />
-<img src="Resources/svgicons/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
-
+<a href="https://linkedin.com/in/ladani-prem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladani-prem" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ladani-prem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ladani-prem" height="30" width="40" /></a>
 </p>
 
-# Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=superladaniprem&theme=transparent)](https://git.io/streak-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-# Stats
-![Gurpreet's github stats](https://github-readme-stats.vercel.app/api?username=superladaniprem&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ladaniprem&show_icons=true&locale=en&layout=compact" alt="ladaniprem" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladaniprem&show_icons=true&locale=en" alt="ladaniprem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladaniprem&" alt="ladaniprem" /></p>
